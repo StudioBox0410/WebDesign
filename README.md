@@ -1,2 +1,2 @@
-# BaseJS
-Learn about JS Fundamental
+# HTML - CSS
+Practicing HTML&CSS tutorial videos 
